@@ -1,3 +1,0 @@
-C:/Users/adsc9/CLionProjects/HanoiStackWendyLargaespadaExamen/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/adsc9/CLionProjects/HanoiStackWendyLargaespadaExamen/cmake-build-debug/CMakeFiles/HanoiStackWendyLargaespadaExamen.dir
-C:/Users/adsc9/CLionProjects/HanoiStackWendyLargaespadaExamen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
